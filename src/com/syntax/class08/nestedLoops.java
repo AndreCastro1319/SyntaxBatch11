@@ -19,7 +19,7 @@ public class nestedLoops {
 				
 					for (int c=0; c<=9; c++) {
 				
-				System.out.println(i+" "+j+" "+b+" "+c);
+				System.out.println(i+" "+j+" : "+b+" "+c);
 				
 			}
 	
