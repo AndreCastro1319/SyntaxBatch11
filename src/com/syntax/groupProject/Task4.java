@@ -5,21 +5,25 @@ import java.util.Scanner;
 public class Task4 {
 
 	public static void main(String[] args) {
-		// 
+		 // Create an array on double values using scanner and calculate the sum of all stored elements in that array.
 
-		System.out.println("Please enter how many elements you want to store");
-		Scanner scan=new Scanner(System.in);
-		double[] num=null;
+		
+		
+		
+		
+		System.out.println("Please enter the number of elements you want to store");
+		Scanner input=new Scanner(System.in);
+		double[] number=null;
 		double sum=0.0;
-		int size =scan.nextInt();
-		num=new double[size];
-
-		System.out.println("enter the number one by one");
+		int size =input.nextInt();
+		number=new double[size];
+		
+		System.out.println("Please enter the numbers");
 		 
-		for(int i=0;i<num.length;i++) {
-			 num[i]=scan.nextDouble();
+		for(int i=0;i<number.length;i++) {
+			 number[i]=input.nextDouble();
 			
-			sum+=num[i];}
+			sum+=number[i];}
 				System.out.println(sum);
 			}
 		}

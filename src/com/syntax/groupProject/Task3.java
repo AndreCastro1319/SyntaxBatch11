@@ -24,6 +24,7 @@ int sum=0;
         
 	    } System.out.println("The sum of even numbers is "+sum);
 	    System.out.println();
+	   
 	    int sum1=0;
 	    for (int i=0; i<numbers.length;i++) {
 			for (int j=0; j<numbers[i].length;j++) 
