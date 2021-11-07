@@ -6,7 +6,7 @@ public class Task7 {
 		// Write a java program to check whether a given number is prime or not?
 
 		
-		 int num = 23;
+		 	int num = 9;
 		    boolean prime = true;
 		    for (int i=0; i<=num;i++) {
 		   

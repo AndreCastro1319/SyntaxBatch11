@@ -26,7 +26,9 @@ public class Task4 {
 			sum+=number[i];}
 				System.out.println(sum);
 			}
-		}
+	
+			
+			}
 
 		
 	

@@ -6,7 +6,7 @@ public class PhonesHW {
 		
 		Phone phone=new Phone();
 		phone.brand="Iphone";
-		phone.model="Iphone 12";
+		phone.model="Iphone 12";	// State of the object
 		phone.color="Red";
 		phone.size="Large";
 		phone.memory=160;

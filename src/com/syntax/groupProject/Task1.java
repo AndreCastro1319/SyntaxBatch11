@@ -22,5 +22,5 @@ public class Task1 {
 				System.out.print("The sum of all numbers is "+sum);
 		
 				}
-	
-				}
+	}
+				
