@@ -6,7 +6,7 @@ public class HwTask5 {
 	void primeNumber ( int a) {
 		
 		if (a>1) {
-			for(int i = 2; i<a;){
+			for(int i = 2; i<a;i++){
 				if(a % i==0) {
 					System.out.println(a+" is not a prime number");
 					break;
@@ -23,7 +23,7 @@ public class HwTask5 {
 		   
 		   HwTask5 num = new HwTask5();
 		   
-		   num.primeNumber(4);
+		   num.primeNumber(2);
 	   
 	
 	}
