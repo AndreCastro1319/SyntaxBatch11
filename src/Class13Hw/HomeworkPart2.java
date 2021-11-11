@@ -3,12 +3,6 @@ package Class13Hw;
 
 
 public class HomeworkPart2 {
-public static void main(String[]args) {
-	String reversedString=reverseString("Sunday");
-    System.out.println(reversedString);
-    
-}
-	
 	public static String reverseString(String name) {
 		 String reversedString = "";
 		    
@@ -18,5 +12,16 @@ public static void main(String[]args) {
 		    			return reversedString;
 	}
 	
+	
+	
+	
+	public static void main(String[]args) {
+	String reversedString=reverseString("Sunday");
+    System.out.println(reversedString);
+    
 }
+	
+	
+	}
+	
 	
