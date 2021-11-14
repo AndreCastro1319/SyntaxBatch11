@@ -6,9 +6,9 @@ public class Students {
 //	Set the value for  studentName , studentID and increment  the numberOfStudents for each object
 //	Print out  total number of students
 	
-	String studentName;
+	String studentName; // instance
 	int studentID;
-	 static int numberOfStudents=100;
+	static int numberOfStudents;//static
 	
 	public static void main(String[]args) {
 		
@@ -17,19 +17,20 @@ public class Students {
 		Students Jimmy=new Students();
 		Jimmy.studentName="Jimmy";
 		Jimmy.studentID=04201;
-		System.out.println(Students.numberOfStudents);
+		System.out.println(Students.numberOfStudents++);
 			
 			
 		Students Mateo=new Students();
 		Mateo.studentName="Mateo";
 		Mateo.studentID=91906;
-		System.out.println(Students.numberOfStudents+Students.numberOfStudents);
+		System.out.println(Students.numberOfStudents++);
 			
 		Students Sebastian=new Students();
 		Mateo.studentName="Sebastian";
 		Mateo.studentID=31306;
-		System.out.println(Students.numberOfStudents+Students.numberOfStudents+Students.numberOfStudents);
-			
-	}
+		System.out.println(Students.numberOfStudents++);
+		
+		System.out.println("The total number of students is "+Students.numberOfStudents);	
+    }
 	
 }
