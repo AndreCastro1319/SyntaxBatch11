@@ -2,466 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11891e83-40f9-4533-9478-cbeb55a113b8" name="Changes" comment="Test">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDETJavaBatch11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETJavaBatch11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/HwTask2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/HwTask2Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/HwTask3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/HwTask3Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/HwTask4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/HwTask5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/HwTask6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/Hwtask1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/Hwtask1Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class12Hw/StringDemo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class13Hw/HWPaRT2RECAP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class13Hw/Homework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class13Hw/Homework2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class13Hw/HomeworkPart2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class14HW/HwTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class15HW/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class15HW/Students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class01/DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class01/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class01/HomeworkDatatypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class01/PrintOrPrintln.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class01/TheProgrammer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/ArithmaticOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/HomeworkClass02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/IncrementOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/IncrementOperatorDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/ModOperatorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/ShortHandOperatorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/StringContactDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/StringDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/VariablesDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/practicereview.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/HWTASK2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/HWTASK3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/HWTASK5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/HWtask4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/HomeworkIfCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/IfCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/IfCondition2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/IfCondition3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/IfCondition4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/IfCondition5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/Recap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/RelationalOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/TypeCasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ElseIFTask2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ElseifTask1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ElseifTask3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/HW1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/HW2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/HW3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/HW5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/NestedIfMoreExamples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/Nestedif.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ScannerDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ScannerDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ScannerIntro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ifnobraces.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ifstatementrecap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/Assignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/Assignmentnumber1n2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/CommonIssues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/CommonIssues2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/HW1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/HW1PART2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/HW2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/LargestNumberEnhancedCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/LogicalAnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/LogicalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/LogicalNot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/LogicalOperatorNestedIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/SwitchCases.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/TaskLogical1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/TaskLogical2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/TaskLogical3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/hw7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/HWTASK2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/HWTsk1part2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/HWtask22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/HwTask1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/IncrementAndDecrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/JJ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/SwitchDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/SwitchDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/WhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/Whileloopin2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/switchconditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/BreakKeyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/DoLoopDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/DoLoopDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/DoLooptask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/ForLoop2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/HW2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/HW22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/Hw1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/MoreForLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/MultiplicationTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/Taskho.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/reviewhw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/whileloop1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/HW1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/HW2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/HW3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/clockhw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/continuekeyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/nestedLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/nestedifhomework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/nestedifmultiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/ArrayIntro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/PrintingPatterns.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/TaskArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/arraysLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/arraysloopssss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/hw1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/hw2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/hw3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/hw4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/patternsmove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/pattersnmove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/replit67.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/AllElementsFrom2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/AllElementsFromArray2dpart2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/Hw1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/MoreArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/TwoDarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/hw2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/hw3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/hw4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/HumanTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/ObjectDogs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/ObjectsClassDog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/ObjectsClassDogTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/PhonesHW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Method5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Method5Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/MethodTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Methods2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Methods2Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Methods3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Methods3Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/Methods2Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/MethodsArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/MethodsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/SringDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/StringDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/StringDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/TASK1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/HomeworkReviewT2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/Recap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/StringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/StringDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/StringDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/StringDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/StringB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/SyntaxStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Task1Recap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/AccessModifierDemo1Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/AccessModifiersDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/AccountTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/Recap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/RecapTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/Task2Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/ok.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/AccessModifiers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/BookTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/CarTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Cow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/CowTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/DogTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/StudentTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Task1Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Task2Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Task4Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/TASK2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/Task10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/Task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/Task8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/groupProject/Task9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/Array2dReview.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/Taskproject10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/VariablesDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/forloop3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/forloop4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/forloops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/forloops2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/nestedforloops3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/nestedloops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/nestedlopps2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/reviewclass2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/task9project.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/whileloop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/HwTask2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/HwTask2Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/HwTask3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/HwTask3Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/HwTask4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/HwTask5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/HwTask6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/Hwtask1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/Hwtask1Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12Hw/StringDemo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13Hw/HWPaRT2RECAP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13Hw/Homework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13Hw/Homework2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13Hw/HomeworkPart2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14HW/HwTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class15HW/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class15HW/Students.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/DataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/HomeworkDatatypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/PrintOrPrintln.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class01/TheProgrammer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/ArithmaticOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/HomeworkClass02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/IncrementOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/IncrementOperatorDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/ModOperatorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/ShortHandOperatorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/StringContactDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/StringDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/Variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/VariablesDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/practicereview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/HWTASK2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/HWTASK3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/HWTASK5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/HWtask4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/HomeworkIfCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/IfCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/IfCondition2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/IfCondition3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/IfCondition4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/IfCondition5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/Recap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/RelationalOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/TypeCasting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/ElseIFTask2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/ElseifTask1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/ElseifTask3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/HW1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/HW2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/HW3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/HW5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/NestedIfMoreExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/Nestedif.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/ScannerDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/ScannerDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/ScannerIntro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/ifnobraces.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class04/ifstatementrecap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/Assignment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/Assignmentnumber1n2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/CommonIssues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/CommonIssues2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/HW1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/HW1PART2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/HW2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/LargestNumberEnhancedCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/LogicalAnd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/LogicalDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/LogicalNot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/LogicalOperatorNestedIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/SwitchCases.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/TaskLogical1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/TaskLogical2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/TaskLogical3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/hw7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/HWTASK2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/HWTsk1part2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/HWtask22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/HwTask1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/IncrementAndDecrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/JJ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/SwitchDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/SwitchDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/WhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/Whileloopin2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class06/switchconditions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/BreakKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/DoLoopDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/DoLoopDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/DoLooptask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/DoWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/ForLoop2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/HW2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/HW22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/Hw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/MoreForLoops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/MultiplicationTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/Task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/Taskho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/reviewhw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class07/whileloop1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class08/HW1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class08/HW2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class08/HW3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class08/clockhw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class08/continuekeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class08/nestedLoops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class08/nestedifhomework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class08/nestedifmultiplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/ArrayIntro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/PrintingPatterns.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/TaskArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/arraysLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/arraysloopssss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/hw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/hw2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/hw3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/hw4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/patternsmove.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/pattersnmove.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/replit67.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class09/triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/AllElementsFrom2DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/AllElementsFromArray2dpart2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/Example1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/Hw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/MoreArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/TwoDarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/hw2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/hw3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class10/hw4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/HumanTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/ObjectDogs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/ObjectsClassDog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/ObjectsClassDogTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/PhonesHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class12/Method5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class12/Method5Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class12/MethodTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class12/Methods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class12/Methods2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class12/Methods2Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class12/Methods3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class12/Methods3Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class13/Methods2Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class13/MethodsArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class13/MethodsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class13/SringDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class13/StringDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class13/StringDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class13/TASK1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class14/HomeworkReviewT2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class14/Recap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class14/StringBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class14/StringDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class14/StringDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class14/StringDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/StringB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/SyntaxStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/Task1Recap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/AccessModifierDemo1Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/AccessModifiersDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/AccountTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/Recap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/RecapTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/Task2Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/ok.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/AccessModifiers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/BookTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/CarTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Cow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/CowTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/DogTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/StudentTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Task1Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Task2Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Task4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Task4Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/TASK2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/Task10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/Task4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/Task5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/Task6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/Task7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/Task8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/groupProject/Task9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/Array2dReview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/Taskproject10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/VariablesDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/forloop3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/forloop4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/forloops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/forloops2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/nestedforloops3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/nestedloops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/nestedlopps2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/reviewclass2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/task9project.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass1/whileloop.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -479,9 +21,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.reviewClass">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class19.Task1" />
       <module name="SDETJavaBatch11" />
@@ -495,8 +38,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reviewClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class19.Test.reviewClass" />
+      <module name="SDETJavaBatch11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class19.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reviewClass" />
         <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
@@ -510,6 +67,21 @@
       <option name="presentableId" value="Default" />
       <updated>1637269485220</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1637275373001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637275373001</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1637275401018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637275401018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
