@@ -16,7 +16,7 @@ public class MethodTester {
 		//methods.sayHelloManyTimesWithState();
 		methods.sayHelloManyTimesWithParameter(15);
 		System.out.println("Line after method call");
-		
+		methods.sayHello();
 	}
 
 }
