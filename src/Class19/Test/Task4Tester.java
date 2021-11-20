@@ -1,7 +1,8 @@
 package Class19.Test;
 
-public class reviewClass {
+public class Task4Tester {
     public static void main(String[] args) {
-        System.out.println("hello");
+
+        Task4.method(new Programming());
     }
 }
