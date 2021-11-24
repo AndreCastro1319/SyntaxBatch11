@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11891e83-40f9-4533-9478-cbeb55a113b8" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/src/Class21/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/CarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/MethodOverloadingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/WebDriverTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21/notes overloading.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21HW/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class21HW/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Review/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Review/DoctorOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Review/Hospital/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/Class21HwSt/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/Class21HwSt/StudentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/example1/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/example1/FileTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/example1/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/example1/Son2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/example2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/example2/PersonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/finaldemo/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22HW/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22HW/ComputerTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class20HW/CreditCard$AX.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Class20HW/CreditCard$AX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class20HW/CreditCard$Visa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Class20HW/CreditCard$Visa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Class20HW/CreditCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Class20HW/CreditCard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class20HW/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class20HW/CreditCard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.StudentTester">
+  <component name="RunManager" selected="Application.ComputerTester">
     <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class21.CarTester" />
       <module name="SDETJavaBatch11" />
@@ -70,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreditCard$AX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class20HW.CreditCard$AX" />
+    <configuration name="ComputerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class22HW.ComputerTester" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class20HW.*" />
+          <option name="PATTERN" value="Class22HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreditCard$Visa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class20HW.CreditCard$Visa" />
+    <configuration name="PersonTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class22.example2.PersonTester" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class20HW.*" />
+          <option name="PATTERN" value="Class22.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloadingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.MethodOverloadingDemo" />
+    <configuration name="StudentTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class22.Class21HwSt.StudentTester" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="Class22.Class21HwSt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComputerTester" />
+        <item itemvalue="Application.StudentTester (1)" />
+        <item itemvalue="Application.PersonTester" />
         <item itemvalue="Application.StudentTester" />
         <item itemvalue="Application.CarTester" />
-        <item itemvalue="Application.MethodOverloadingDemo" />
-        <item itemvalue="Application.CreditCard$AX" />
-        <item itemvalue="Application.CreditCard$Visa" />
       </list>
     </recent_temporary>
   </component>
