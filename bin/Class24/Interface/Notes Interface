@@ -1,0 +1,16 @@
+Interface:
+    Interface is collection of public static final variables(constants) and public abstract methods plus static default and private methods from java 8 and 9.
+Its a contract that a class has to implement.
+
+Rules:
+  1  Can only be public static final fields.
+  2  As there are no instance fields in interfaces they don't have constructors as well.
+  3  We can not create an object of interfaces because they can have unimplemented methods.
+  4  A class can not extend an interface but it is implemented by a class.
+  5  An interface can extend another interface
+  6  An interface can extend multiple interfaces it means interface support multiple inheritance.
+
+Encapsulation:
+    Encapsulation is using data(variables/fields) and code(methods) together as a single unit.
+    Create your fields private and make getter and setter methods to access those fields.
+    getter and setter methods are used to access and update the value of a private variable

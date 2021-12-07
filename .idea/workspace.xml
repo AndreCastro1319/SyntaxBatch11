@@ -2,19 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11891e83-40f9-4533-9478-cbeb55a113b8" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/src/Class22/Class21HwSt/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Class21HwSt/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/example1/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/example1/FileTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/example1/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/example1/Son2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/example2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/example2/PersonTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22/finaldemo/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22HW/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class22HW/ComputerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/BMW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Class23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/FileTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/GrandChild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Iphone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/JavaFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/PdfFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/PhoneTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Samsung.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Toyota.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/VehicleTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/WordFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Abstraction/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Class22HWREVIEW/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class23/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Interface/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Interface/I1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Interface/I2$Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Interface/I2$Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Interface/I2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Interface/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Interface/PersonTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Interface/SDETInstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Interface/SyntaxEmployees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/Bike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/ChromeDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/DriavableTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/Driveable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/FireDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/WebDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Class24/Task1/WebDriverTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ProjectTasks/Task1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ProjectTasks/Task1/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ProjectTasks/Task1/ShapeTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ProjectTasks/Task1/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ProjectTasks/Task2/Marks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ProjectTasks/Task2/MarksTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ProjectTasks/Task2/StudentA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ProjectTasks/Task2/StudentB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/Class23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/FileTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/PhoneTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/VehicleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Abstraction/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Class22HWREVIEW/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class23/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Interface/I1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Interface/Notes Interface" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Interface/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Interface/PersonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Task1/DriavableTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Task1/Driveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Task1/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Task1/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class24/Task1/WebDriverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/HW/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/collectionFrame/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/collectionFrame/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/collectionFrame/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/collectionFrame/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/collectionFrame/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/collectionFrame/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/collectionFrame/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/collectionFrame/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class25/collectionFrame/WrapperClass.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/ArrayList/ArrayDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/ArrayList/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/ArrayList/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/ArrayList/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/HashSet/SetDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/HashSet/SetDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/HashSet/SetDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/Iterator/IteratorDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/Iterator/IteratorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/Iterator/IteratorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/LinkList/LinkListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/Task2/Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/Task3/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/Task4/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/Tasks1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/Tasks1/tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part2Task1/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part2Task1/InsuranceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part2Task2/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part2Task2/CardTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part3Tasks/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part3Tasks/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part3Tasks/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part3Tasks/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaUtili/Matchutili/decimalChangeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTaskReview/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTaskReview/ShapeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTaskReview/Task2/Marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTaskReview/Task3/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTaskReview/Task4/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTaskReview/Task4/VehicleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTaskReview/Task5/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTaskReview/Task5/WebDriverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTasks/Task1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTasks/Task1/ShapeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTasks/Task2/Marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectTasks/Task2/MarksTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classReview2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classReview2/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classReview2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classReview2/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classReview2/World.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Class21/notes overloading.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Class21/notes overloading.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class21/notes overloading.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class21/notes overloading.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +140,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,15 +169,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.ComputerTester">
-    <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.CarTester" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Class25/collectionFrame" />
+      <recent name="$PROJECT_DIR$/src/Class24/Interface" />
+      <recent name="$PROJECT_DIR$/src/Class 25" />
+      <recent name="$PROJECT_DIR$/src/Class 25/encapsulation" />
+      <recent name="$PROJECT_DIR$/src/Class23/Abstraction" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Class23.Abstraction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Students">
+    <configuration name="SetDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class26.HashSet.SetDemo2" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="Class26.HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class22HW.ComputerTester" />
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class26HW.part3Tasks.Students" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class22HW.*" />
+          <option name="PATTERN" value="Class26HW.part3Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class22.example2.PersonTester" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class26HW.part3Tasks.Task1" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class22.example2.*" />
+          <option name="PATTERN" value="Class26HW.part3Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class22.Class21HwSt.StudentTester" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class26HW.part3Tasks.Task2" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class22.Class21HwSt.*" />
+          <option name="PATTERN" value="Class26HW.part3Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21HW.StudentTester" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class26HW.part3Tasks.Task3" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21HW.*" />
+          <option name="PATTERN" value="Class26HW.part3Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComputerTester" />
-        <item itemvalue="Application.StudentTester (1)" />
-        <item itemvalue="Application.PersonTester" />
-        <item itemvalue="Application.StudentTester" />
-        <item itemvalue="Application.CarTester" />
+        <item itemvalue="Application.Students" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.SetDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -170,5 +301,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <option name="LAST_COMMIT_MESSAGE" value="Test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Class26/ArrayList/Demo3.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="subjects1" />
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
