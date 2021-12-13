@@ -6,23 +6,31 @@ import java.util.LinkedList;
 public class Drinks {
     //Create an arrayList of drinks. If any drink has letter “a” or “e” replace it with water.
     public static void main(String[] args) {
-        ArrayList<String> drink = new ArrayList<>();
-        drink.add("Margarita");
-        drink.add("Sex on the beach");
-        drink.add("Screwdriver");
-        drink.add("Mojito");
-        drink.add("Cuba libre");
+        ArrayList<String> arrayList = new ArrayList<>();
+        arrayList.add("Margarita");
+        arrayList.add("Sex on the beach");
+        arrayList.add("Screwdriver");
+        arrayList.add("Mojito");
+        arrayList.add("Cuba libre");
+        for (int i = 0; i < arrayList.size(); i++) {
 
+            if(arrayList.get(i).toLowerCase().replaceAll("[ae]","").length()< arrayList.get(i).length()){
+                arrayList.set(i,"Water");
+            }
+        }
+        System.out.println(arrayList);
 
-       for (int i=0; i< drink.size();i++){
-           if (drink.get(i).contains("a") || drink.get(i).contains("e")) {
-               drink.remove(drink.get(i));
-               drink.add(i,"water");
+        System.out.println("- - - - - - - - - - -  - - - - - -");
+
+       for (int i=0; i< arrayList.size();i++){
+           if (arrayList.get(i).contains("a") || arrayList.get(i).contains("e")) {
+               arrayList.set(i,"water");
 
            }
        }
-        System.out.println(drink);
+        System.out.println(arrayList);
     }
+
 }
 
 

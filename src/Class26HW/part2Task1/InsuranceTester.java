@@ -1,6 +1,7 @@
 package Class26HW.part2Task1;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class InsuranceTester {
     public static void main(String[] args) {
@@ -23,6 +24,11 @@ public class InsuranceTester {
         for(Insurance insurance:insurances){
             insurance.getQuote();
             insurance.cancelInsurance();
+
+
         }
+
+
+
     }
 }

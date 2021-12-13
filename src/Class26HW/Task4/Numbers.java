@@ -9,11 +9,11 @@ public class Numbers {
     ArrayList<Integer> numbers=new ArrayList<>();
         for(int i=1; i<50; i++){
         if(i%2==0){
-            if(i%5==0){
+            if(i%5!=0){
                 numbers.add(i);
             }
         }
     }
         System.out.println(numbers);
-}
+  }
 }

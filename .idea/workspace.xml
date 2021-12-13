@@ -2,7 +2,283 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11891e83-40f9-4533-9478-cbeb55a113b8" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/src/Class26/ArrayList/Arraylist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/ArrayList/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/Task3/drinks2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/Task4/numbers2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part3Tasks/differentWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26HW/part3Tasks/differentway3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Maps/mapppp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28HW/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28HW/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28HW/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28HW/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28HW/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class28HW/Task6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDETJavaBatch11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETJavaBatch11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Class26HW/Task2/Words.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Class26HW/Task2/Words.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Class26HW/Task3/Drinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Class26HW/Task3/Drinks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Class26HW/Task4/Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Class26HW/Task4/Numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Class26HW/Tasks1/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Class26HW/Tasks1/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Class26HW/part2Task1/InsuranceTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Class26HW/part2Task1/InsuranceTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/HomeworkDatatypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/PrintOrPrintln.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01/TheProgrammer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/ArithmaticOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/HomeworkClass02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/IncrementOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/IncrementOperatorDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/ModOperatorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/ShortHandOperatorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/StringContactDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/StringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/VariablesDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/practicereview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/HWTASK2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/HWTASK3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/HWTASK5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/HWtask4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/HomeworkIfCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/IfCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/IfCondition2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/IfCondition3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/IfCondition4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/IfCondition5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/Recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/RelationalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03/TypeCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/ElseIFTask2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/ElseifTask1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/ElseifTask3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/HW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/HW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/HW3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/HW5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/NestedIfMoreExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/Nestedif.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/ScannerDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/ScannerDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/ScannerIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/ifnobraces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class04/ifstatementrecap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/Assignmentnumber1n2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/CommonIssues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/CommonIssues2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/HW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/HW1PART2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/HW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/LargestNumberEnhancedCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/LogicalAnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/LogicalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/LogicalNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/LogicalOperatorNestedIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/SwitchCases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/TaskLogical1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/TaskLogical2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/TaskLogical3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class05/hw7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/HWTASK2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/HWTsk1part2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/HWtask22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/HwTask1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/IncrementAndDecrement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/JJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/SwitchDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/SwitchDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/Whileloopin2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class06/switchconditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/BreakKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/DoLoopDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/DoLoopDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/DoLooptask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/DoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/ForLoop2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/HW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/HW22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/Hw1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/MoreForLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/Taskho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/reviewhw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/whileloop1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class08/HW1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class08/HW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class08/HW3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class08/clockhw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class08/continuekeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class08/nestedLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class08/nestedifhomework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class08/nestedifmultiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/ArrayIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/PrintingPatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/TaskArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/arraysLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/arraysloopssss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/hw1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/hw2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/hw3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/hw4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/patternsmove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/pattersnmove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/replit67.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class09/triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/AllElementsFrom2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/AllElementsFromArray2dpart2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/Hw1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/MoreArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/TwoDarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/hw2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/hw3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class10/hw4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class11/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class11/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class11/HumanTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class11/ObjectDogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class11/ObjectsClassDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class11/ObjectsClassDogTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class11/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class11/PhonesHW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class12/Method5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class12/Method5Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class12/MethodTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class12/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class12/Methods2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class12/Methods2Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class12/Methods3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class12/Methods3Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class13/Methods2Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class13/MethodsArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class13/MethodsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class13/SringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class13/StringDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class13/StringDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class13/TASK1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class14/HomeworkReviewT2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class14/Recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class14/StringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class14/StringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class14/StringDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class14/StringDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class15/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class15/StringB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class15/SyntaxStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class15/Task1Recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/AccessModifierDemo1Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/AccessModifiersDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/AccountTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/Recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/RecapTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/Task2Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/ok.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class16/task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/AccessModifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/BookTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/CarTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Cow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/CowTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/DogTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/StudentTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Task1Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Task2Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class17/Task4Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/TASK2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/Task10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/Task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/Task7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/Task8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupProject/Task9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/EmployeeTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/PetTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Task3/ChemistryTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Task3/MathTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Task3/PianoTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Task3/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Task3/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/userClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/Class19/userInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/ClassB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/ClassC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/MultiClassConsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/TestMultiClassConsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/Tsk3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/Tsk3Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/class18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDETJavaBatch11/com/collection/vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/Array2dReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/Taskproject10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/VariablesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/forloop3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/forloop4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/forloops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/forloops2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/nestedforloops3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/nestedloops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/nestedlopps2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/reviewclass2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/task9project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewclass1/whileloop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class26HW/Task2/Words.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class26HW/Task2/Words.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class26HW/Task3/Drinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class26HW/Task3/Drinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class26HW/Task4/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class26HW/Task4/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class26HW/Tasks1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class26HW/Tasks1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class26HW/part2Task1/InsuranceTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class26HW/part2Task1/InsuranceTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +318,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -56,13 +335,13 @@
       <recent name="Class23.Abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Numbers">
-    <configuration name="Drinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class26HW.Task3.Drinks" />
+  <component name="RunManager" selected="Application.Task6">
+    <configuration name="PersonTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class28HW.PersonTester" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class26HW.Task3.*" />
+          <option name="PATTERN" value="Class28HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +349,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class26HW.Task4.Numbers" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class28HW.Task2" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class26HW.Task4.*" />
+          <option name="PATTERN" value="Class28HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +362,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class26HW.part3Tasks.Students" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class28HW.Task4" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class26HW.part3Tasks.*" />
+          <option name="PATTERN" value="Class28HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +375,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class26HW.part3Tasks.Task3" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class28HW.Task5" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class26HW.part3Tasks.*" />
+          <option name="PATTERN" value="Class28HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +388,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class26HW.Task2.Words" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class28HW.Task6" />
       <module name="SDETJavaBatch11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class26HW.Task2.*" />
+          <option name="PATTERN" value="Class28HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +403,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.Drinks" />
-        <item itemvalue="Application.Words" />
-        <item itemvalue="Application.Students" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.PersonTester" />
+        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
